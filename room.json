@@ -1,0 +1,77 @@
+[
+    {
+        "roomNo": 3,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": [
+            3,
+            7
+        ]
+    },
+    {
+        "roomNo": 4,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": [
+            4,
+            5
+        ]
+    },
+    {
+        "roomNo": 5,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": [
+            8,
+            9
+        ]
+    },
+    {
+        "roomNo": 1,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": [
+            2,
+            6
+        ]
+    },
+    {
+        "roomNo": 2,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": [
+            1
+        ]
+    },
+    {
+        "roomNo": 6,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": []
+    },
+    {
+        "bookings": [
+            8
+        ]
+    },
+    {
+        "roomNo": 8,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1200,
+        "bookings": []
+    },
+    {
+        "roomNo": 13,
+        "noOfSeats": 2,
+        "amenities": "AC, LED TV, FAN",
+        "pricePerHour": 1300,
+        "bookings": []
+    }
+]

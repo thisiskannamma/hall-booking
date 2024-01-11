@@ -1,0 +1,77 @@
+[
+    {
+        "bookingId": 1,
+        "customerName": "Elizabeth",
+        "date": "2023-01-05",
+        "startTime": "2023-01-05T02:30:50",
+        "endTime": "2023-01-05T05:30:00",
+        "roomId": 2
+    },
+    {
+        "bookingId": 2,
+        "customerName": "chitra",
+        "date": "2023-01-09",
+        "startTime": "2023-01-09T02:30:50",
+        "endTime": "2023-01-09T05:30:00",
+        "roomId": 1
+    },
+    {
+        "bookingId": 3,
+        "customerName": "Afrin",
+        "date": "2023-01-11",
+        "startTime": "2023-01-11T02:30:50",
+        "endTime": "2023-01-11T05:30:00",
+        "roomId": 3
+    },
+    {
+        "bookingId": 4,
+        "customerName": "Jinu",
+        "date": "2023-01-15",
+        "startTime": "2023-01-15T02:30:50",
+        "endTime": "2023-01-15T05:30:00",
+        "roomId": 4
+    },
+    {
+        "bookingId": 5,
+        "customerName": "Durai",
+        "date": "2023-01-17",
+        "startTime": "2023-01-17T02:30:50",
+        "endTime": "2023-01-17T05:30:00",
+        "roomId": 4
+    },
+    {
+        "bookingId": 6,
+        "customerName": "Sachein",
+        "date": "2023-01-20",
+        "startTime": "2023-01-20T02:30:50",
+        "endTime": "2023-01-20T05:30:00",
+        "roomId": 1
+    },
+    {
+        "bookingId": 7,
+        "customerName": "Sendhil",
+        "date": "2023-01-22",
+        "startTime": "2023-01-22T10:30:50",
+        "endTime": "2023-01-22T05:30:00",
+        "roomId": 3
+    },
+    {
+        "bookingId": 8,
+        "customerName": "Samuel",
+        "date": "2023-01-23",
+        "startTime": "2023-01-23T12:30:50",
+        "endTime": "2023-01-23T05:30:00",
+        "roomId": 5
+    },
+    {
+        "bookingId": 9
+    },
+    {
+        "customerName": "Sacheinkumar",
+        "date": "2023-01-25",
+        "startTime": "2023-12-25T12:30:50",
+        "endTime": "2023-12-25T05:30:00",
+        "roomId": 5,
+        "bookingId": 10
+    }
+]
